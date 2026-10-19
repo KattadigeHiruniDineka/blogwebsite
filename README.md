@@ -1,4 +1,9 @@
+
 # Daily Reads — Blog Website
+
+![Blog Website Docker CI](https://github.com/KattadigeHiruniDineka/blogwebsite/actions/workflows/docker-ci.yml/badge.svg)
+
+
 
 ## 1. Project Overview
 
