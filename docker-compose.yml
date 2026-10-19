@@ -1,0 +1,8 @@
+
+services:
+  blogwebsite:
+    build: .
+    container_name: daily-reads-blog
+    ports:
+      - "8080:80"
+    restart: unless-stopped
